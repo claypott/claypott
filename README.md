@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claypott
 - 👀 I’m interested in programming and using it as a creative outlet!
-- 🌱 I’m currently learning data analysis and machinelearning.
+- 🌱 I’m currently learning data analysis and machine learning.
 - 💞️ I’m eager to collaborate on exciting projects, such as training complex Ml models alongside members of github community in the near future!
 - 📫 How to reach me ... via email: awaishbrohi1@gmail.com
 - 😄 Pronouns: she/her
